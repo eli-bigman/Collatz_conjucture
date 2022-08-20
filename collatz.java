@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Collartz {
+class Collatz {
     public static void main(String[] args){
         System.out.println("Please enter the range: \n");
         Scanner input = new Scanner(System.in);
